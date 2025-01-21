@@ -133,7 +133,7 @@ async def not_joined(client: Client, message: Message):
     buttons = []
     buttons.append(
         [
-            InlineKeyboardButton("Join The Bot", url="https://t.me/notpixel/app?startapp=f5697403136_s4")
+            InlineKeyboardButton("Join The Bot", url="https://t.me/+YVhor-oTUOg2NjU1")
         ]
     )
     # If user hasn't joined Channel 1, add the button
