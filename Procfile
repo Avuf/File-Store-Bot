@@ -1,1 +1,1 @@
-worker:  python3 xyz.py , xyz = 
+worker:  python3 xyz.py
